@@ -1,0 +1,37 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-01,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10002,2024-01-02,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal
+10003,2024-01-03,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10004,2024-01-04,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card
+10005,2024-01-05,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10006,2024-01-06,Sports & Outdoors,Nike Running Shoes,1,129.95,129.95,Asia,Credit Card
+10007,2024-01-07,Toys & Games,LEGO Star Wars Set,2,79.99,159.98,North America,PayPal
+10008,2024-01-08,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Europe,Debit Card
+10009,2024-01-09,Home & Kitchen,Keurig K-Elite Coffee Maker,1,189.99,189.99,North America,Credit Card
+10010,2024-01-10,Books,Atomic Habits,5,27.00,135.00,Australia,PayPal
+10011,2024-01-11,Clothing,Adidas Hoodie,2,55.00,110.00,Europe,Credit
+10016,2024-01-16,Beauty Products,Olay Regenerist Cream,2,29.99,59.98,Europe,PayPal
+10017,2024-01-17,Toys & Games,Hot Wheels Track Set,3,49.99,149.97,North America,Credit Card
+10018,2024-01-18,Clothing,Nike Dri-FIT T-Shirt,4,35.00,140.00,Asia,Debit Card
+10019,2024-01-19,Books,Becoming by Michelle Obama,2,18.99,37.98,Australia,PayPal
+10020,2024-01-20,Electronics,Apple Watch Series 9,1,429.00,429.00,North America,Credit Card
+10021,2024-01-21,Home Appliances,Philips Air Fryer XXL,1,299.99,299.99,Europe,PayPal
+10022,2024-01-22,Beauty Products,L'Oreal Paris Shampoo,5,7.99,39.95,Asia,Debit Card
+10023,2024-01-23,Books,The Alchemist,3,14.99,44.97,North America,Credit Card
+10024,2024-01-24,Clothing,Zara Slim Fit Jeans,2,59.99,119.98,Australia,PayPal
+10025,2024-01-25,Electronics,Bose QuietComfort Earbuds,1,279.00,279.00,Europe,Credit Card
+10026,2024-01-26,Home & Kitchen,Instant Vortex Air Fryer,1,89.99,89.99,Asia,Debit Card
+10027,2024-01-27,Sports & Outdoors,Fitbit Charge 6,2,159.95,319.90,North America,PayPal
+10028,2024-01-28,Toys & Games,Nerf Elite Blaster,3,39.99,119.97,Europe,Credit Card
+10029,2024-01-29,Clothing,Under Armour Shorts,4,24.99,99.96,Asia,Debit Card
+10030,2024-01-30,Books,Rich Dad Poor Dad,5,10.99,54.95,North America,PayPal
+10031,2024-01-31,Electronics,GoPro HERO12 Black,1,399.99,399.99,Australia,Credit Card
+10032,2024-02-01,Beauty Products,Dove Body Wash,3,6.99,20.97,Europe,PayPal
+10033,2024-02-02,Home Appliances,Breville Espresso Machine,1,699.95,699.95,Asia,Debit Card
+10034,2024-02-03,Toys & Games,Barbie Dreamhouse,1,299.99,299.99,North America,Credit Card
+10035,2024-02-04,Clothing,H&M Casual Shirt,2,19.99,39.98,Australia,PayPal
+10036,2024-02-05,Books,The Subtle Art of Not Giving a F*ck,3,17.99,53.97,Europe,Debit Card
+10037,2024-02-06,Electronics,Canon EOS R8 Camera,1,1499.00,1499.00,Asia,Credit Card
+10038,2024-02-07,Beauty Products,CeraVe Moisturizing Cream,2,15.99,31.98,North America,PayPal
+10039,2024-02-08,Home & Kitchen,Kitchenaid Stand Mixer,1,499.99,499.99,Europe,Debit Card
+10040,2024-02-09,Sports & Outdoors,Adidas Running Shoes,2,89.99,179.98,Australia,Credit Card
